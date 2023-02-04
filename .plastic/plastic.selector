@@ -1,0 +1,4 @@
+repository "Unity_2D@wechat_os_qy054jhhe4r4bebp-18r0gy4o@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
